@@ -15,7 +15,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Application Frameworks',
     ],
     keywords='hash dictionary ordered_hash ordered_dictionary',
-    packages=['openapi_generator'],
+    packages=['ordered_hash'],
     install_requires=[],
     test_suite='nose2.collector.collector',
     extras_require={
